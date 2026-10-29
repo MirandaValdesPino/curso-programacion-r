@@ -457,7 +457,7 @@ Una decisión bien fundamentada tiene cuatro partes:
 
 Antes de calcular nada: ¿crees que el analista tiene razón? Escribe una frase.
 
-*Mi respuesta:*
+No por que la media se altera cuando hay resultados muy altos entonces no representan al 100 lo qye es un jugador promedio. 
 
 ## Paso 2. Comprueba lo que dice el analista
 
@@ -509,9 +509,13 @@ median(qb_resto$career_av)
 Responde al analista con las cuatro partes. Usa **tus** números de los pasos 2 y 3.
 
 - **Decisión:**
+No deberias escoger un QB en la primera ronda cuando hay otras posiciones con medianas superiores, seria mejor incorporar a esos jugadores que han presetadi mejores resultados cosistentemente. 
 - **Evidencia:**
+Aunque los Qb tiene un promedio alto, su mediana es de las maas bajas de todas. 
 - **Razonamiento:**
+la mediana nos demuestra un resultado mas retitivo, por eso con su resultado podemos. ver que  por mas que los QB si puedan alcanzar valores altos no es su desempeño habitual.
 - **Límite:**
+Esto no representa la importancia de cada posicion ni toma en cuenta las caracteristicas de los jugadores y los criterios utilizados para los equipo para seleccionarlos que pueden influir. 
 
 **Para entregar:** en RStudio, botón **Knit** para comprobar que todo se ejecuta. Después, en GitHub, entra a tu repositorio, abre la carpeta `sesion-3`, **Add file > Upload files**, sube `sesion3_trabajo.Rmd` y escribe un mensaje como *Agregar trabajo de la sesión 3*.
 
